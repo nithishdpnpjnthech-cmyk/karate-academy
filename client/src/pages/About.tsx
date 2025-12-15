@@ -45,14 +45,30 @@ export default function About() {
                 Our Story
               </h2>
               <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-                Founded in 2010, Huura Academy started with a simple mission: to empower individuals through martial arts, 
-                classical dance, and yoga. What began as a small dojo with just a handful of students has grown into a 
-                thriving community of warriors, dancers, and wellness enthusiasts.
+                Huura Multi Skill Academy was founded with the vision of creating a single, trusted platform that connects learners with qualified coaches across multiple disciplines. What began as a focused effort to teach traditional martial arts has expanded into a multi-disciplinary academy offering Karate, Bharatanatyam, Yoga, Swimming, Football, Badminton, Basketball, Gymnastics, Skating, and other skill-based programs.
               </p>
+              <h3 className="font-heading font-semibold text-xl mb-4">About the Founder &amp; Director</h3>
+              <p className="text-muted-foreground text-lg leading-relaxed mb-6">
+                Mr. Kashyapa Brahma, Founder and Director of Huura Multi Skill Academy Pvt. Ltd., is a dedicated Karate practitioner, educator, and mentor committed to building discipline, confidence, and strong character through skill-based learning. Born and raised in Bengaluru, Karnataka, his journey reflects over two decades of continuous practice, teaching, and community engagement.
+              </p>
+              <h3 className="font-heading font-semibold text-xl mb-4">Professional Journey &amp; Philosophy</h3>
+              <p className="text-muted-foreground text-lg leading-relaxed mb-6">
+                With 20+ years of Karate practice and 12+ years of teaching experience, Sensei Kashyapa has trained thousands of students, guiding them to experience martial arts not merely as a sport, but as a way of life rooted in focus, respect, resilience, and self-discipline. His teaching philosophy extends beyond physical training to include life skills, mental strength, and personal growth.
+              </p>
+              <p className="text-muted-foreground text-lg leading-relaxed mb-6">
+                In addition to martial arts, he is a certified Learn-to-Swim instructor, having helped thousands of individuals develop water confidence and essential swimming skills—reinforcing his belief that life skills are as important as competitive abilities.
+              </p>
+              <h3 className="font-heading font-semibold text-xl mb-4">Leadership &amp; Contributions</h3>
+              <p className="text-muted-foreground text-lg leading-relaxed mb-6">
+                Sensei Kashyapa holds several key leadership roles within the martial arts community: Founder, Mizu Tai Khi Karate-Do Federation; President, Karnataka Goju-Ryu Karate-Do Federation; and Referee Commission Secretary, UGKFI. A 4th Dan Black Belt certified by the International Okinawa Goju-Ryu Karate Organisation, he also holds a World Goju-Ryu Karate Federation Referee Licence and has officiated at international championships in Malaysia, Nepal, Austria, and Sri Lanka.
+              </p>
+              <h3 className="font-heading font-semibold text-xl mb-4">Huura Multi Skill Academy — The Vision in Action</h3>
+              <p className="text-muted-foreground text-lg leading-relaxed mb-6">
+                Beyond student development, Huura actively supports the coach community, providing opportunities for trainers to work, grow, and build sustainable livelihoods through a professional and well-organized platform.
+              </p>
+              <h3 className="font-heading font-semibold text-xl mb-4">Beyond Training</h3>
               <p className="text-muted-foreground text-lg leading-relaxed mb-8">
-                Our founder, Master Sensei Kashyapa Brahma, envisioned a space where traditional disciplines could be taught 
-                with modern teaching methods. Today, we continue to honor that vision by offering world-class training 
-                in Karate, Bharatanatyam, and Yoga.
+                Beyond coaching and leadership, Sensei Kashyapa Brahma runs ALFO Events, a professional event production company, and is an experienced Master of Ceremonies. Passionate about teaching life skills beyond the training floor, he believes in holistic development through discipline and mindful living. In his personal time, he enjoys exploring and sharing vegan cooking, reflecting his balanced approach to health and lifestyle.
               </p>
               <Link href="/contact">
                 <Button size="lg" data-testid="button-join-us">

@@ -25,13 +25,10 @@ export default function Home() {
                 Master Sensei Kashyapa Brahma
               </h3>
               <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-                Born with a passion for martial arts, Kashyapa Brahma began his journey at age 8. After training under 
-                renowned masters in Japan and India, he founded Huura Academy in 2010 with a vision to create a 
-                holistic space for traditional disciplines.
+                Mr. Kashyapa Brahma began his martial arts journey at age 8 and founded Huura Academy in 2010 to create a holistic space for traditional disciplines that blend technical training with life skills.
               </p>
               <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-                With over 20 years of teaching experience and a 5th Dan Black Belt, he has trained more than 1000 
-                students, believing that true strength comes from the harmony of body, mind, and spirit.
+                With 20+ years of practice and 12+ years of teaching, Sensei Kashyapa has trained thousands of students, emphasizing discipline, respect, resilience, and personal growth.
               </p>
               <div className="flex items-center gap-6 mb-8">
                 <div className="text-center">
