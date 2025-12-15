@@ -8,7 +8,7 @@ const programs = [
     id: "karate",
     title: "Karate",
     description: "Build strength, discipline, and self-defense skills with our comprehensive martial arts training.",
-    image: "https://images.unsplash.com/photo-1555597673-b21d5c935865?w=600&h=400&fit=crop",
+    image: "/gallery/karate/01.JPG",
     href: "/programs/karate",
   },
   {

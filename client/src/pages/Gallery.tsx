@@ -149,9 +149,10 @@ export default function Gallery() {
         <div
           className="absolute inset-0 bg-cover bg-center opacity-20"
           style={{
-            backgroundImage: `url(https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1920&h=600&fit=crop)`,
+            backgroundImage: `url(/gallery/karate/Begin%20Your%20Journey%20Today.jpeg)`,
           }}
         />
+      
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="font-heading font-bold text-4xl md:text-5xl lg:text-6xl text-white uppercase tracking-wider mb-4 animate-fade-in-up">
             Gallery

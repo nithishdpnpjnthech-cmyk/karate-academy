@@ -6,13 +6,11 @@ export function CTASection() {
     <section
       className="relative py-20 md:py-32 overflow-hidden"
       data-testid="section-cta"
+       style={{
+            backgroundImage: `url(/gallery/karate/Begin%20Your%20Journey%20Today.jpeg)`,
+          }}
     >
-      <div
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{
-          backgroundImage: `url(https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1920&h=800&fit=crop)`,
-        }}
-      />
+      
       <div className="absolute inset-0 bg-black/70" />
       
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
@@ -44,3 +42,4 @@ export function CTASection() {
     </section>
   );
 }
+

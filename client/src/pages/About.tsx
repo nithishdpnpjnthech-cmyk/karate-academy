@@ -22,10 +22,11 @@ export default function About() {
       <section className="relative py-20 md:py-32 bg-foreground">
         <div
           className="absolute inset-0 bg-cover bg-center opacity-20"
-          style={{
-            backgroundImage: `url(https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1920&h=600&fit=crop)`,
+           style={{
+            backgroundImage: `url(/gallery/karate/Begin%20Your%20Journey%20Today.jpeg)`,
           }}
         />
+        
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="font-heading font-bold text-4xl md:text-5xl lg:text-6xl text-white uppercase tracking-wider mb-4 animate-fade-in-up">
             About Us
@@ -61,11 +62,8 @@ export default function About() {
             </div>
             <div className="relative animate-slide-in-right">
               <div className="aspect-[4/3] rounded-lg overflow-hidden shadow-xl">
-                <img
-                  src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&h=600&fit=crop"
-                  alt="Huura Academy Founder"
-                  className="w-full h-full object-cover"
-                />
+              <img src="Kashiyappa.jpg" alt="Master Sensei Kashyapa Brahma" className="rounded-lg shadow-xl" />
+
               </div>
               <div className="absolute -bottom-6 -left-6 bg-primary text-white p-6 rounded-lg shadow-lg">
                 <p className="font-heading font-bold text-3xl">15+</p>

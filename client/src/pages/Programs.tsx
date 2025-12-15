@@ -10,7 +10,7 @@ const programs = [
     title: "Karate",
     subtitle: "Martial Arts Excellence",
     description: "Build strength and self-defense skills through our comprehensive Karate program. From beginners to advanced black belt training, we offer classes for all ages and skill levels.",
-    image: "https://images.unsplash.com/photo-1555597673-b21d5c935865?w=800&h=900&fit=crop",
+    image: "/gallery/karate/01.JPG",
     href: "/programs/karate",
     features: ["Self-Defense Techniques", "Belt Grading System", "Competition Training", "Kids & Adults Classes"],
   },
@@ -41,7 +41,7 @@ export default function Programs() {
         <div
           className="absolute inset-0 bg-cover bg-center opacity-20"
           style={{
-            backgroundImage: `url(https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1920&h=600&fit=crop)`,
+            backgroundImage: `url(/gallery/karate/Begin%20Your%20Journey%20Today.jpeg)`,
           }}
         />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

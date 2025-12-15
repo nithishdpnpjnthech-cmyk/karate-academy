@@ -45,7 +45,7 @@ export default function KarateBeginner() {
               </Link>
             </div>
             <div>
-              <img src="https://images.unsplash.com/photo-1555597673-b21d5c935865?w=800&h=600&fit=crop" alt="Beginner Karate" className="rounded-lg shadow-xl" />
+              <img src="" alt="Beginner Karate" className="rounded-lg shadow-xl" />
             </div>
           </div>
         </div>

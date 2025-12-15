@@ -55,7 +55,7 @@ export default function Home() {
             </div>
             <div className="relative animate-slide-in-right">
               <div className="aspect-[3/4] rounded-lg overflow-hidden shadow-xl">
-                <img src="Kashiyappa Bramha.jpg" alt="Master Sensei Kashyapa Brahma" className="rounded-lg shadow-xl" />
+                <img src="Kashiyappa.jpg" alt="Master Sensei Kashyapa Brahma" className="rounded-lg shadow-xl" />
 
               </div>
               <div className="absolute -bottom-6 -right-6 bg-primary text-white p-4 rounded-lg shadow-lg">
