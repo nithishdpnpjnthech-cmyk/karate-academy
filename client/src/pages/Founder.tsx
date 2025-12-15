@@ -28,7 +28,7 @@ export default function Founder() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <img src="Kashiyappa Bramha.jpg" alt="Master Sensei Kashyapa Brahma" className="rounded-lg shadow-xl" />
+              <img src="Kashiyappa.jpg" alt="Master Sensei Kashyapa Brahma" className="rounded-lg shadow-xl" />
             </div>
             <div>
               <h2 className="font-heading font-bold text-3xl md:text-4xl uppercase tracking-wide mb-6">

@@ -16,8 +16,8 @@ export default function Home() {
       
       <section className="py-16 md:py-24 bg-secondary/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div className="animate-slide-in-left">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-stretch">
+            <div className="animate-slide-in-left flex flex-col justify-center h-full order-first lg:order-none">
               <h2 className="font-heading font-bold text-3xl md:text-4xl uppercase tracking-wide mb-6">
                 Meet Our Founder
               </h2>
@@ -50,9 +50,9 @@ export default function Home() {
                 </Button>
               </Link>
             </div>
-            <div className="relative animate-slide-in-right">
-              <div className="aspect-[3/4] rounded-lg overflow-hidden shadow-xl">
-                <img src="Kashiyappa.jpg" alt="Master Sensei Kashyapa Brahma" className="rounded-lg shadow-xl" />
+            <div className="relative animate-slide-in-right flex items-center justify-center order-last lg:order-none">
+              <div className="max-w-[390px] w-full rounded-lg overflow-hidden shadow-xl mx-auto">
+                <img src="Kashiyappa.jpg" alt="Master Sensei Kashyapa Brahma" className="w-full h-auto object-cover" />
 
               </div>
               <div className="absolute -bottom-6 -right-6 bg-primary text-white p-4 rounded-lg shadow-lg">
