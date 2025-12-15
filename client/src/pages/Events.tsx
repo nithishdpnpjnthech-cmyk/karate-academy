@@ -94,8 +94,8 @@ export default function Events() {
       <section className="relative py-20 md:py-32 bg-foreground">
         <div
           className="absolute inset-0 bg-cover bg-center opacity-20"
-          style={{
-            backgroundImage: `url(https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1920&h=600&fit=crop)`,
+         style={{
+            backgroundImage: `url(/gallery/karate/Begin%20Your%20Journey%20Today.jpeg)`,
           }}
         />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

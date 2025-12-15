@@ -19,7 +19,7 @@ const galleryItems = [
   { id: 3, category: "events", image: "/gallery/karate/WhatsApp Image 2025-11-22 at 11.47.40 (3).jpeg", title: "AGKF Event" },
   { id: 4, category: "events", image: "/gallery/karate/WhatsApp Image 2025-11-22 at 11.47.40 (4).jpeg", title: "International Event" },
   { id: 5, category: "events", image: "/gallery/karate/WhatsApp Image 2025-11-22 at 11.47.40.jpeg", title: "Sri Lanka Competition" },
-  { id: 6, category: "achievements", image: "/gallery/karate/WhatsApp Image 2025-11-22 at 11.49.38.jpeg", title: "9th AGKF Achievement" },
+  { id: 6, category: "karate", image: "/gallery/karate/blackbelt.JPG", title: "Self Defence Training" },
   { id: 7, category: "achievements", image: "/gallery/karate/WhatsApp Image 2025-11-22 at 11.52.01 (5).jpeg", title: "Sri Lanka Victory" },
   { id: 8, category: "achievements", image: "/gallery/karate/WhatsApp Image 2025-11-22 at 11.52.01 (6).jpeg", title: "Championship Achievement" },
   { id: 9, category: "achievements", image: "/gallery/karate/WhatsApp Image 2025-11-22 at 11.52.01 (7).jpeg", title: "Tournament Success" },

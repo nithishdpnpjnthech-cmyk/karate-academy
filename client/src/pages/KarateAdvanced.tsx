@@ -45,7 +45,7 @@ export default function KarateAdvanced() {
               </Link>
             </div>
             <div>
-              <img src="https://images.unsplash.com/photo-1555597408-26bc8e548a46?w=800&h=600&fit=crop" alt="Advanced Karate" className="rounded-lg shadow-xl" />
+              <img src="/gallery/karate/advance.JPG" alt="Advanced Karate" className="rounded-lg shadow-xl" />
             </div>
           </div>
         </div>

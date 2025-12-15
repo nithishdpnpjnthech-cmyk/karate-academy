@@ -45,7 +45,7 @@ export default function KarateIntermediate() {
               </Link>
             </div>
             <div>
-              <img src="https://images.unsplash.com/photo-1564415051543-cb73a40c6a38?w=800&h=600&fit=crop" alt="Intermediate Karate" className="rounded-lg shadow-xl" />
+              <img src="/gallery/events/intermediate.JPG" alt="Beginner Karate" className="rounded-lg shadow-xl" />
             </div>
           </div>
         </div>
